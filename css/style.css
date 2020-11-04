@@ -1,0 +1,19 @@
+
+
+li{
+    display: inline-block;
+    width: 150px;
+    height: 70px;
+}
+
+ body{
+ background-color: beige;
+
+ }
+li.box{
+    text-align: center;
+}
+
+.boxtwo{
+    border: brown;
+}
