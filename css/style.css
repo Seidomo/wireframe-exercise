@@ -1,19 +1,55 @@
 
 
-li{
-    display: inline-block;
-    width: 150px;
-    height: 70px;
+nav{
+    display: flex;
+    width: 100%;
+    background-color: darkgray;
+    
 }
 
  body{
- background-color: beige;
+ background-color:gray;
+ margin-top: 1px;
 
  }
-li.box{
-    text-align: center;
+li{
+    display: inline;
+    margin: 30px;
+}
+ .logo{
+    background-color: cornsilk;
+    width: 200px;
+    height: 70px;
+    
+}
+.item1{
+    margin-left: 400px;
+}
+section div{
+    margin: 0px;
 }
 
 .boxtwo{
-    border: brown;
+    margin: 10px;
+    padding: 10px;
+}
+.boxthree{
+    float: left;
+}
+ 
+    
+
+button{
+    display: flex;
+    background-color: rgb(15, 15, 15);
+    color: cornsilk;
+    width: 100px;
+    height: 30px;
+    margin-top: 0px;
+    
+}
+footer{
+    background-color: darkgray;
+    margin-bottom: 18px;
+    height: 60px;
 }
